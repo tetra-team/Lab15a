@@ -1,3 +1,3 @@
 # This hamza sentece.
 
-*and this is second line of his paragraph*
+_and this is second line of his paragraph_
